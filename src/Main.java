@@ -17,5 +17,6 @@ public class Main {
         String pass=sc.next();
         System.out.println(user.WithdrawMoney(money,pass));
         System.out.println(user.calculateInterest(10));
+        System.out.println("kgit");
     }
 }
